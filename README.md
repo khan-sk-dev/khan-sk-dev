@@ -136,19 +136,6 @@ I'm a **Java Backend Developer** and **AI/ML Enthusiast** passionate about build
   <img src="https://github-profile-trophy.vercel.app/?username=khan-sk-dev&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-### 🔝 Top Contributed Repos
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=khan-sk-dev&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=khan-sk-dev&icon=0&color=0" alt="Profile Views Counter" />
-</div>
-
-<div align="center">
   <h3>📫 Connect with me:</h3>
   <p>
     <a href="https://github.com/khan-sk-dev" target="_blank">
