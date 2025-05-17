@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Shahrukh Khan!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Khan
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -17,7 +17,10 @@
 
 ## 💫 About Me
 
-I'm a **Java Backend Developer** and **AI/ML Enthusiast** passionate about building intelligent systems and scalable applications.
+I'm a **Senior Java Backend Developer** and **AI/ML Enthusiast** passionate about building intelligent systems and scalable applications. With **4+ years of remote work experience**, I've developed a strong foundation in creating enterprise-grade solutions across different domains.
+
+- 💼 **Professional Journey:**
+  Working as a remote software Java developer for the past 4 years, I've collaborated with distributed teams to deliver high-performance backend systems. I'm currently **open to new opportunities** that leverage my expertise in both Java engineering and AI integration.
 
 - 🔭 **I'm currently working on:**
   Enhancing AI model performance through data training, evaluation, and prompt design — while also building scalable Java backend services using Spring Boot, Docker, and Kubernetes, with deployments on AWS.
@@ -33,6 +36,9 @@ I'm a **Java Backend Developer** and **AI/ML Enthusiast** passionate about build
 
 - 💬 **Ask me about:**
   Spring Boot, microservices, Docker, Kubernetes, AWS, API Gateway, AI data labeling, prompt design, or how to combine backend logic with intelligent AI systems.
+
+- 🌟 **What I value:**
+  Remote-first culture, challenging projects that push technical boundaries, and collaborative teams focused on solving real-world problems through technology.
 
 - ⚡ **Fun fact:**
   I once debugged a backend service and tuned a GPT-style model's prompt within the same hour — turns out switching between logic and language is a skill worth nurturing!
@@ -136,4 +142,15 @@ I'm a **Java Backend Developer** and **AI/ML Enthusiast** passionate about build
   <img src="https://github-profile-trophy.vercel.app/?username=khan-sk-dev&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
+
+---
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=khan-sk-dev&icon=0&color=0" alt="Profile Views Counter" />
+</div>
+
+<div align="center">
+  <p>
+    <b>🔍 Open to new opportunities! Let's connect and build something amazing together.</b>
+  </p>
 </div>
