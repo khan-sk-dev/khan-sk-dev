@@ -136,13 +136,4 @@ I'm a **Java Backend Developer** and **AI/ML Enthusiast** passionate about build
   <img src="https://github-profile-trophy.vercel.app/?username=khan-sk-dev&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-  <h3>📫 Connect with me:</h3>
-  <p>
-    <a href="https://github.com/khan-sk-dev" target="_blank">
-      <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://www.linkedin.com/in/shahrukh-khan-dev/" target="_blank">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </p>
 </div>
