@@ -17,7 +17,7 @@
 
 ## 💫 About Me
 
-I'm a **Senior Java Backend Developer** and **AI/ML Enthusiast** passionate about building intelligent systems and scalable applications. With **4+ years of remote work experience**, I've developed a strong foundation in creating enterprise-grade solutions across different domains.
+I'm a **Senior Java Backend Developer** and **AI/ML Enthusiast** passionate about building intelligent systems and scalable applications. With **6+ years of remote work experience**, I've developed a strong foundation in creating enterprise-grade solutions across different domains.
 
 - 💼 **Professional Journey:**
   Working as a remote software Java developer for the past 4 years, I've collaborated with distributed teams to deliver high-performance backend systems. I'm currently **open to new opportunities** that leverage my expertise in both Java engineering and AI integration.
