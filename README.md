@@ -274,10 +274,6 @@ I've found that the most powerful backend systems combine traditional enterprise
 ---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=khan-sk-dev&icon=0&color=0" alt="Profile Views Counter" />
-</div>
-
-<div align="center">
-  <h3>🔍 Open for Senior Backend Engineering & Architecture Opportunities</h3>
+  <h3>🔍 Open for Java backend roles</h3>
   <p>Let's collaborate on building scalable, resilient systems that solve complex business challenges.</p>
 </div>
