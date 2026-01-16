@@ -17,7 +17,7 @@
 
 ## 💫 Professional Profile
 
-I'm a **Senior Java Backend Architect** and **AI/ML Integration Specialist** with expertise in building high-throughput distributed systems and intelligent applications. Leveraging **6+ years of remote engineering experience**, I've architected and implemented enterprise-grade solutions across finance, e-commerce, healthcare, and SaaS domains.
+I'm a **Senior Java Backend Architect** and **AI/ML Integration Specialist** with expertise in building high-throughput distributed systems and intelligent applications. Leveraging **4+ years of remote engineering experience**, I've architected and implemented enterprise-grade solutions across finance, e-commerce, healthcare, and SaaS domains.
 
 ### 🔧 Technical Expertise & Focus Areas
 
