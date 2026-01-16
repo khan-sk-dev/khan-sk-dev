@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Welcome to My Git-Hub Portfolio
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Welcome to My GitHub Portfolio
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -15,9 +15,83 @@
 
 ---
 
+## 🚀 Featured Projects
+
+### Microservices & Distributed Systems
+
+#### 🔷 E-Commerce Microservices Platform
+**Technologies:** Spring Boot, Spring Cloud, Netflix Eureka, API Gateway, Circuit Breaker
+- Designed and implemented a scalable microservices architecture with 12+ independent services
+- Implemented service discovery with Eureka and centralized configuration management
+- Built resilient communication patterns using Circuit Breaker and Bulkhead patterns
+- Achieved 99.9% uptime with fault-tolerant design and graceful degradation
+- [View Repository →](#)
+
+#### 🔷 Real-Time Order Processing System
+**Technologies:** Apache Kafka, Spring Boot, Kafka Streams, PostgreSQL, Redis
+- Developed event-driven order processing pipeline handling 10K+ orders/minute
+- Implemented exactly-once semantics for critical financial transactions
+- Built real-time analytics dashboard using Kafka Streams for order tracking
+- Reduced order processing latency by 70% through event sourcing patterns
+- [View Repository →](#)
+
+#### 🔷 gRPC Payment Gateway Service
+**Technologies:** gRPC, Protocol Buffers, Spring Boot, Circuit Breaker, Redis Cache
+- Built high-performance payment processing service with gRPC for inter-service communication
+- Implemented bi-directional streaming for real-time payment status updates
+- Achieved 40% reduction in network overhead compared to REST APIs
+- Integrated with multiple payment providers with fallback mechanisms
+- [View Repository →](#)
+
+#### 🔷 Distributed Messaging Platform
+**Technologies:** RabbitMQ, Spring Boot, MongoDB, WebSockets, Docker
+- Created scalable chat application supporting 50K+ concurrent connections
+- Implemented message queuing with RabbitMQ for reliable message delivery
+- Built real-time notification system with WebSocket support
+- Designed horizontal scaling strategy with load balancing across multiple instances
+- [View Repository →](#)
+
+### AI/ML Integration Projects
+
+#### 🤖 Intelligent Document Processing API
+**Technologies:** Spring Boot, LangChain, Pinecone Vector DB, OpenAI API, FastAPI
+- Developed RAG-based document analysis system for enterprise knowledge management
+- Integrated vector embeddings for semantic search across 1M+ documents
+- Built REST API layer for ML model integration with Java backend
+- Implemented caching strategies reducing API costs by 60%
+- [View Repository →](#)
+
+#### 🤖 Smart Recommendation Engine
+**Technologies:** Spring Boot, TensorFlow Serving, Redis, Kafka, PostgreSQL
+- Architected real-time recommendation system processing 100K+ events/hour
+- Integrated TensorFlow models via gRPC for low-latency predictions
+- Built feature store with Redis for sub-10ms recommendation serving
+- Implemented A/B testing framework for model performance evaluation
+- [View Repository →](#)
+
+### Cloud-Native & DevOps
+
+#### ☁️ Kubernetes Operator for Java Applications
+**Technologies:** Kubernetes, Custom Resource Definitions, Docker, Helm, Java
+- Developed custom Kubernetes operator automating Java application lifecycle
+- Implemented auto-scaling based on JVM metrics and custom business metrics
+- Built deployment strategies supporting canary and blue-green deployments
+- Reduced deployment time by 80% through automation
+- [View Repository →](#)
+
+#### ☁️ Multi-Cloud Deployment Pipeline
+**Technologies:** AWS, Terraform, Jenkins, Docker, Kubernetes, GitLab CI
+- Designed infrastructure-as-code templates for multi-cloud deployments
+- Automated CI/CD pipeline with zero-downtime deployments
+- Implemented comprehensive monitoring with Prometheus and Grafana
+- Built disaster recovery mechanisms with automated failover
+- [View Repository →](#)
+
+---
+
 ## 💫 Professional Profile
 
-I'm a **Senior Java Backend Architect** and **AI/ML Integration Specialist** with expertise in building high-throughput distributed systems and intelligent applications. Leveraging **4+ years of remote engineering experience**, I've architected and implemented enterprise-grade solutions across finance, e-commerce, healthcare, and SaaS domains.
+I'm a **Java Backend Architect** and **AI/ML Integration Specialist** with expertise in building high-throughput distributed systems and intelligent applications. Leveraging **4+ years of remote engineering experience**, I've architected and implemented enterprise-grade solutions across finance, e-commerce, healthcare, and SaaS domains.
 
 ### 🔧 Technical Expertise & Focus Areas
 
@@ -232,9 +306,9 @@ I've found that the most powerful backend systems combine traditional enterprise
 ![Embeddings API](https://img.shields.io/badge/Embeddings%20API-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Prom](https://img.shields.io/badge/Prompt%20Engineering-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Model Serving](https://img.shields.io/badge/Model%20Serving-3B4252?style=for-the-badge&logo=numpy&logoColor=white)
-![Crafting Model](https://img.shields.io/badge/Model%20Training-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Model Training](https://img.shields.io/badge/Model%20Training-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![TensorFlow Serving](https://img.shields.io/badge/TensorFlow%20Serving-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 
@@ -268,12 +342,4 @@ I've found that the most powerful backend systems combine traditional enterprise
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khan-sk-dev&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
-<div align="center">
-  <h3>🔍 Open for Java backend roles</h3>
-  <p>Let's collaborate on building scalable, resilient systems that solve complex business challenges.</p>
-</div>
+  <img src="https://github-profile-trophy.vercel.app/?username=khan-sk-dev
