@@ -41,9 +41,7 @@ Prometheus | Grafana | Zipkin
 - Integrated asynchronous messaging with Kafka and RabbitMQ for reliable, real-time transaction processing
 - Enabled full observability with Prometheus, Grafana, and Zipkin for monitoring and distributed tracing
 - Containerized all services using Docker and docker-compose for local development and testing
-
-# Repository
-https://github.com/khan-sk-dev/InternetBanking-Microservices
+- [View Repository →](https://github.com/khan-sk-dev/InternetBanking-Microservices)
 
 
 
