@@ -25,7 +25,7 @@
 - Implemented service discovery with Eureka and centralized configuration management
 - Built resilient communication patterns using Circuit Breaker and Bulkhead patterns
 - Achieved 99.9% uptime with fault-tolerant design and graceful degradation
-- [View Repository →](#)
+- [View Repository →](https://github.com/khan-sk-dev/cloud-ecommerce-platform)
 
 #### 🔷 Real-Time Order Processing System
 **Technologies:** Apache Kafka, Spring Boot, Kafka Streams, PostgreSQL, Redis
