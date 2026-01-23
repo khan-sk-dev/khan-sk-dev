@@ -19,6 +19,34 @@
 
 ### Microservices & Distributed Systems
 
+# Internet Banking Microservices Platform
+
+### Technologies
+Java | Spring Boot | Spring Cloud | Microservices
+Docker | Kubernetes
+Kafka | RabbitMQ
+MySQL | PostgreSQL
+Prometheus | Grafana | Zipkin
+
+# Project Overview
+- Designed and developed an enterprise-grade internet banking platform using Spring Boot microservices
+- Implemented core banking capabilities:
+  - User management
+  - Fund transfers
+  - Bill payments
+  - Transaction history
+- Built centralized configuration management and service discovery using:
+  - Config Server
+  - Service Registry
+- Integrated asynchronous messaging with Kafka and RabbitMQ for reliable, real-time transaction processing
+- Enabled full observability with Prometheus, Grafana, and Zipkin for monitoring and distributed tracing
+- Containerized all services using Docker and docker-compose for local development and testing
+
+# Repository
+https://github.com/khan-sk-dev/InternetBanking-Microservices
+
+
+
 #### 🔷 E-Commerce Microservices Platform
 **Technologies:** Spring Boot, Spring Cloud, Netflix Eureka, API Gateway, Circuit Breaker
 - Designed and implemented a scalable microservices architecture with 12+ independent services
@@ -33,7 +61,7 @@
 - Implemented exactly-once semantics for critical financial transactions
 - Built real-time analytics dashboard using Kafka Streams for order tracking
 - Reduced order processing latency by 70% through event sourcing patterns
-- [View Repository →](#)
+- [View Repository →](https://github.com/khan-sk-dev/real-time-supply-tracker)
 
 #### 🔷 gRPC Payment Gateway Service
 **Technologies:** gRPC, Protocol Buffers, Spring Boot, Circuit Breaker, Redis Cache
@@ -41,51 +69,9 @@
 - Implemented bi-directional streaming for real-time payment status updates
 - Achieved 40% reduction in network overhead compared to REST APIs
 - Integrated with multiple payment providers with fallback mechanisms
-- [View Repository →](#)
+- [View Repository [→](#](https://github.com/khan-sk-dev/Healthcare-Microservices-System))
 
-#### 🔷 Distributed Messaging Platform
-**Technologies:** RabbitMQ, Spring Boot, MongoDB, WebSockets, Docker
-- Created scalable chat application supporting 50K+ concurrent connections
-- Implemented message queuing with RabbitMQ for reliable message delivery
-- Built real-time notification system with WebSocket support
-- Designed horizontal scaling strategy with load balancing across multiple instances
-- [View Repository →](#)
 
-### AI/ML Integration Projects
-
-#### 🤖 Intelligent Document Processing API
-**Technologies:** Spring Boot, LangChain, Pinecone Vector DB, OpenAI API, FastAPI
-- Developed RAG-based document analysis system for enterprise knowledge management
-- Integrated vector embeddings for semantic search across 1M+ documents
-- Built REST API layer for ML model integration with Java backend
-- Implemented caching strategies reducing API costs by 60%
-- [View Repository →](#)
-
-#### 🤖 Smart Recommendation Engine
-**Technologies:** Spring Boot, TensorFlow Serving, Redis, Kafka, PostgreSQL
-- Architected real-time recommendation system processing 100K+ events/hour
-- Integrated TensorFlow models via gRPC for low-latency predictions
-- Built feature store with Redis for sub-10ms recommendation serving
-- Implemented A/B testing framework for model performance evaluation
-- [View Repository →](#)
-
-### Cloud-Native & DevOps
-
-#### ☁️ Kubernetes Operator for Java Applications
-**Technologies:** Kubernetes, Custom Resource Definitions, Docker, Helm, Java
-- Developed custom Kubernetes operator automating Java application lifecycle
-- Implemented auto-scaling based on JVM metrics and custom business metrics
-- Built deployment strategies supporting canary and blue-green deployments
-- Reduced deployment time by 80% through automation
-- [View Repository →](#)
-
-#### ☁️ Multi-Cloud Deployment Pipeline
-**Technologies:** AWS, Terraform, Jenkins, Docker, Kubernetes, GitLab CI
-- Designed infrastructure-as-code templates for multi-cloud deployments
-- Automated CI/CD pipeline with zero-downtime deployments
-- Implemented comprehensive monitoring with Prometheus and Grafana
-- Built disaster recovery mechanisms with automated failover
-- [View Repository →](#)
 
 ---
 
