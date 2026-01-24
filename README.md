@@ -221,21 +221,4 @@ I'm actively seeking roles in:
 - **Technical Leadership** opportunities mentoring engineering teams
 
 **Ideal Role:** Senior Software Engineer with focus on Java/Python microservices, event-driven architecture, API lifecycle management, and AI/ML integration.
-
-### 📫 Let's Connect
-
-I'm passionate about building scalable, intelligent systems and love collaborating on:
-- Distributed systems requiring high throughput and low latency
-- Event-driven architectures with Kafka, RabbitMQ, or AWS SQS
-- AI/ML integration with traditional backend systems
-- Microservices modernization and API gateway implementations
-- GenAI and LLM-powered automation for business processes
-
-Feel free to reach out for technical discussions, collaboration opportunities, or consulting on:
-- Microservices architecture and design patterns
-- Event-driven systems and asynchronous processing
-- AI/ML model integration and deployment strategies
-- API design, security, and lifecycle management
-- Performance optimization and scalability challenges
-
 ---
