@@ -243,23 +243,18 @@ Feel free to reach out for technical discussions, collaboration opportunities, o
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khan-sk-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=khan-sk-dev&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=khan-sk-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khan-sk-dev&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180em" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khan-sk-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khan-sk-dev&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=khan-sk-dev&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
-
-<div align="center">
-  <i>⭐ If you find my work interesting, please consider starring my repositories! ⭐</i>
-  <br/><br/>
-  <b>Made with ❤️ by a passionate engineer building the future of intelligent, distributed systems</b>
-</div>
