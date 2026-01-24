@@ -67,7 +67,7 @@ Prometheus | Grafana | Zipkin
 - Implemented bi-directional streaming for real-time payment status updates
 - Achieved 40% reduction in network overhead compared to REST APIs
 - Integrated with multiple payment providers with fallback mechanisms
-- [View Repository [→](#](https://github.com/khan-sk-dev/Healthcare-Microservices-System))
+- [View Repository [→](https://github.com/khan-sk-dev/Healthcare-Microservices-System)
 
 
 
